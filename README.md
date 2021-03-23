@@ -1,6 +1,8 @@
 # JavaRest
 
-[ ] Criar um projeto chamado JavaRest no Github
+
+### TODOS:
+- [ ] Criar um projeto chamado JavaRest no Github
 [ ] Prover um webservice com arquitetura REST para atender as chamas do site
 [ ] CRUD de produtos
 [ ] CRUD de Categorias
